@@ -6,11 +6,13 @@ My email address is cyber {ignore this break} telxdev at gmail dot com. (No bots
 ## Languages and tools I have experience in
 - Node.js
 - HTML/CSS/JS
+- Solidity
 - TypeScript
 - Lua (5.1, Roblox & Luvit)
 ## Things I'm still learning or want to
-- React (i have no idea how to react, so i STILL use vanilla js for all my projects, F)
+- React
 - Angular
 - Go
 - Rust
-- Whatever that "block chain" thing is /s
+- Vue
+- Svelte
