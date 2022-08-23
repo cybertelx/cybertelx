@@ -1,4 +1,6 @@
-cybertelx@my-thinkpad:~$ cat operator.txt
+# [See this on my website!](https://cybtlx.one)
+
+`cybertelx@my-thinkpad:~$ cat operator.txt`
 
 ==================
 
@@ -18,16 +20,16 @@ cybertelx@my-thinkpad:~$ cat operator.txt
 
 ## CODE IS FREE SPEECH: FREE ALEXEY PERTSEV
 
-> ~$ cd socials && ls
+`~$ cd socials && ls`
 
-[github.sh](https://github.com/cybertelx)
-[twitter.sh](https://twitter.com/cybertel_x)
-[reddit.sh](https://reddit.com/u/cybertelx)
-[email.sh](mailto://cybertelx@proton.me)
-**session.sh (preferred contact)** -> @operator or @cybertelx (add me!)
+[github.sh](https://github.com/cybertelx)  
+[twitter.sh](https://twitter.com/cybertel_x)  
+[reddit.sh](https://reddit.com/u/cybertelx)  
+[email.sh](mailto://cybertelx@proton.me)  
+**session.sh (preferred contact)** -> @operator or @cybertelx (add me!)  
 [ethwallet.sh](https://wallet.cybtlx.one)
 
-> ~/socials$ cd ../projects && ls
+`~/socials$ cd ../projects && ls`
 
-[carpetdefi.sh](https://carpetde.fi)
+[carpetdefi.sh](https://carpetde.fi)  
 [ontheblock.sh](https://paper.wf/on-the-block)
