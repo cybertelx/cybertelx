@@ -15,7 +15,7 @@
 - smart contract developer
 - likes reading scp wiki articles
 - interested in zk proofs but can't wrap head around the math
-- cypherpunk, privacy enhancing tech & strong cryptography is cool
+- privacy enhancing tech & strong cryptography is cool
 - reducing my reliance on nonfree software day by day
 
 ## CODE IS FREE SPEECH: FREE ALEXEY PERTSEV
