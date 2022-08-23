@@ -98,10 +98,7 @@ function App() {
               <li>
                 interested in zk proofs but can't wrap head around the math
               </li>
-              <li>
-                cypherpunk, privacy enhancing tech &amp; strong cryptography is
-                cool
-              </li>
+              <li>privacy enhancing tech &amp; strong cryptography is cool</li>
               <li>reducing my reliance on nonfree software day by day</li>
             </ul>
             <p
