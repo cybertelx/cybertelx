@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import useTyping from "./typing";
 import Fade from "./Fade";
-import scp from "./scp";
+import logo from "./logo";
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -56,14 +56,14 @@ function App() {
     setSCDisplayed(!sessionContactDisplayed);
   }
 
-  const scplogorows = [];
-  const splitSCPlogo = scp.split("\n");
-  for (let i = 0; i < splitSCPlogo.length; i++) {
+  const logorows = [];
+  const splitlogo = logo.split("\n");
+  for (let i = 0; i < splitlogo.length; i++) {
     // note: we are adding a key prop here to allow react to uniquely identify each
     // element in this array. see: https://reactjs.org/docs/lists-and-keys.html
-    scplogorows.push(
-      <span className="glitch block" data-text={splitSCPlogo[i]} key={i}>
-        {splitSCPlogo[i]}
+    logorows.push(
+      <span className="glitch block" data-text={splitlogo[i]} key={i}>
+        {splitlogo[i]}
       </span>
     );
   }
@@ -94,7 +94,7 @@ function App() {
             <ul className="list-inside list-disc">
               <li>digital rights and free software activist</li>
               <li>smart contract developer</li>
-              <li>likes reading scp wiki articles</li>
+              <li>likes reading logo wiki articles</li>
               <li>
                 interested in zk proofs but can't wrap head around the math
               </li>
@@ -147,8 +147,8 @@ function App() {
           </Fade>
         </div>
         <Fade in={finishedAuthor}>
-          <div className="data text-xs hidden lg:inline-block">
-            {scplogorows}
+          <div className="data text-sm hidden lg:inline-block text-green-400">
+            {logorows}
           </div>
         </Fade>
       </div>
