@@ -94,7 +94,7 @@ function App() {
             <ul className="list-inside list-disc">
               <li>digital rights and free software activist</li>
               <li>smart contract developer</li>
-              <li>likes reading logo wiki articles</li>
+              <li>likes reading scp wiki articles</li>
               <li>
                 interested in zk proofs but can't wrap head around the math
               </li>
