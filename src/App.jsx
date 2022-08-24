@@ -147,7 +147,7 @@ function App() {
           </Fade>
         </div>
         <Fade in={finishedAuthor}>
-          <div className="data text-sm hidden lg:inline-block text-green-400">
+          <div className="data text-xs hidden lg:inline-block text-green-400">
             {logorows}
           </div>
         </Fade>
