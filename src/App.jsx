@@ -94,12 +94,12 @@ function App() {
             <ul className="list-inside list-disc">
               <li>digital rights and free software activist</li>
               <li>smart contract developer</li>
+              <li>ceo of carpet defi</li>
               <li>likes reading scp wiki articles</li>
               <li>
                 interested in zk proofs but can't wrap head around the math
               </li>
               <li>privacy enhancing tech &amp; strong cryptography is cool</li>
-              <li>reducing my reliance on nonfree software day by day</li>
             </ul>
             <p
               className="text-red-500 text-xl font-bold glitch"
@@ -118,6 +118,9 @@ function App() {
               </li>
               <li>
                 <a href="https://reddit.com/u/cybertelx">reddit.sh</a>
+              </li>
+              <li>
+                <a href="https://mirror.xyz/cybertelx.eth">mirror.sh</a>
               </li>
               <li>
                 <a href="mailto://cybertelx@proton.me">email.sh</a>
