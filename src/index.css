@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.data { white-space: pre; }
-
 .glitch {
   position: relative;
   margin: 0 auto;
