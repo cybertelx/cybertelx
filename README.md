@@ -1,4 +1,4 @@
-# [See this on my website!](https://cybtlx.one)
+# [See this on my website](https://cybtlx.one)
 
 `cybertelx@my-thinkpad:~$ cat operator.txt`
 
@@ -11,25 +11,28 @@
 
 13 year old blockchain developer, also goes by the handle cybertelx
 
-- digital rights and free software activist
-- smart contract developer
+- 13 year old blockchain developer
+- also goes by the handle cybertelx
+- digital rights activist
+- [buidling carpet defi](https://carpetde.fi)
 - likes reading scp wiki articles
-- interested in zk proofs but can't wrap head around the math
-- privacy enhancing tech & strong cryptography is cool
-- reducing my reliance on nonfree software day by day
+- interested in cryptography
+- interested in blockchains, defi, etc
+- [transhumanist](http://yudkowsky.net/singularity/simplified)
 
 ## CODE IS FREE SPEECH: FREE ALEXEY PERTSEV
 
-`~$ cd socials && ls`
+`~$ ls ~/socials`
 
-[github.sh](https://github.com/cybertelx)  
-[twitter.sh](https://twitter.com/cybertel_x)  
-[reddit.sh](https://reddit.com/u/cybertelx)  
-[email.sh](mailto://cybertelx@proton.me)  
-**session.sh (preferred contact)** -> @operator or @cybertelx (add me!)  
-[ethwallet.sh](https://wallet.cybtlx.one)
+[my github](https://github.com/cybertelx)
+[my tweeter](https://twitter.com/cybertel_x)
+[my reddit](https://reddit.com/u/cybertelx)
+[my mirror blog](https://mirror.xyz/cybertelx.eth)
+[send me an email](mailto://cybertelx@proton.me)  
+[my crypto wallet](https://wallet.cybtlx.one)
+**contact me on session** -> @operator or @cybertelx (add me!)
 
-`~/socials$ cd ../projects && ls`
+`ls ~/projects`
 
-[carpetdefi.sh](https://carpetde.fi)  
-[ontheblock.sh](https://paper.wf/on-the-block)
+[carpet defi](https://carpetde.fi)
+[mirror blog](https://mirror.xyz/cybertelx.eth)

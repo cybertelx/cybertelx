@@ -127,6 +127,9 @@ function App() {
                   </span>
                 )}
               </li>
+              <li>
+                <a href="http://yudkowsky.net/singularity/simplified">transhumanist</a>
+              </li>
             </ul>
           </section>
 
@@ -193,6 +196,22 @@ function App() {
                 </span>
               </li>
               <li>
+                <a href="https://trustless.fi">
+                  trustless
+                </a>{" "}
+                <span className="text-white font-normal">
+                  (truly decentralized stablecoin)
+                </span>
+              </li>
+              <li>
+                <a href="https://liquity.org">
+                  liquity
+                </a>{" "}
+                <span className="text-white font-normal">
+                  (another decentralized stablecoin)
+                </span>
+              </li>
+              <li>
                 <a href="https://github.com/consensys/anonymous-zether">
                   anonymous-zether
                 </a>{" "}
@@ -211,7 +230,7 @@ function App() {
       <footer>
         copyright (c) cybertelx 2022 - licensed under GPL 3.0
         {/* CHANGE THIS WHEN YOU UPDATE */}
-        <p>website last updated november 6 2022 (2022-11-6)</p>
+        <p>website last updated november 27 2022 (2022-11-27)</p>
       </footer>
     </div>
   );
