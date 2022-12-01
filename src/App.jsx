@@ -88,6 +88,9 @@ function App() {
               <li>interested in cryptography</li>
               <li>interested in blockchains, defi, etc</li>
             </ul>
+            <li>
+              <a href="http://yudkowsky.net/singularity/simplified" className="text-blue-500 hover:text-blue-400">transhumanist</a>
+            </li>
           </section>
 
           <br />
@@ -126,9 +129,6 @@ function App() {
                     -&gt; @operator or @cybertelx (add me!)
                   </span>
                 )}
-              </li>
-              <li>
-                <a href="http://yudkowsky.net/singularity/simplified">transhumanist</a>
               </li>
             </ul>
           </section>
@@ -230,7 +230,7 @@ function App() {
       <footer>
         copyright (c) cybertelx 2022 - licensed under GPL 3.0
         {/* CHANGE THIS WHEN YOU UPDATE */}
-        <p>website last updated november 27 2022 (2022-11-27)</p>
+        <p>website last updated december 1 2022 (2022-12-1)</p>
       </footer>
     </div>
   );
