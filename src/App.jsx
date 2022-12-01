@@ -87,10 +87,10 @@ function App() {
               <li>likes reading scp wiki articles</li>
               <li>interested in cryptography</li>
               <li>interested in blockchains, defi, etc</li>
-            </ul>
             <li>
               <a href="http://yudkowsky.net/singularity/simplified" className="text-blue-500 hover:text-blue-400">transhumanist</a>
             </li>
+            </ul>
           </section>
 
           <br />
