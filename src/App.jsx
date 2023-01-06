@@ -73,6 +73,7 @@ function App() {
               <hr className="my-2" />
             </label>
             <ul className="list-inside list-disc">
+              <li>there will be no further communications.</li>
               <li>13 year old blockchain developer</li>
               <li>also goes by the handle cybertelx</li>
               <li>digital rights activist</li>
@@ -97,7 +98,7 @@ function App() {
 
           <section>
             <label className="text-xl">
-              ls ~/socials
+              ls ~/socials (but it doesn't matter, as i'm gone now)
               <hr className="my-2" />
             </label>
             <ul className="text-green-400 font-bold">
@@ -228,9 +229,9 @@ function App() {
         </div>
       </div>
       <footer>
-        copyright (c) cybertelx 2022 - licensed under GPL 3.0
+        copyright (c) cybertelx 2023 - licensed under GPL 3.0
         {/* CHANGE THIS WHEN YOU UPDATE */}
-        <p>website last updated december 1 2022 (2022-12-1)</p>
+        <p>website last updated 6 january 2023 (2023-1-6)</p>
       </footer>
     </div>
   );
